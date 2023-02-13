@@ -6,6 +6,8 @@ Utilize esse template para criar um repo pessoal na sua conta e trabalhe nele.
 
 ## Enunciado
 
+O exercício de hoje pode parecer repetitivo comparado às práticas da aula. Isso acontece porque a geração de ids e fluxos de autenticação (cadastro e login) são sempre muito parecidos em qualquer API RESTful.
+
 ### Exercício 1
 
 Instale as dependências necessárias para criação de uuids, tokens jwt e variáveis de ambiente.<br>
