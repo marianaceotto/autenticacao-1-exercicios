@@ -1,10 +1,20 @@
-# Autenticação I - Template de Prática
-**Vamos utilizar esse repositório para as práticas da aula!**
+# Exercício da tarde - Autenticação I
 
-## Instruções para baixar
+<strong>A partir dessa semana os exercícios da tarde voltam a ser independentes. Não se preocupe em centralizá-los em um mesmo repo.</strong>
+<br><br>
+Utilize esse template para criar um repo pessoal na sua conta e trabalhe nele.
 
-1. Faça o fork desse repositório.
-2. No repositório com seu nome de usuário, copie a url.
-3. Abra a pasta onde você guarda os materiais do curso pelo terminal.
-4. Baixe o repositório usando: git clone url-copiada.
-5. Abra a pasta no vscode. Vamos codar!
+## Enunciado
+
+### Exercício 1
+
+Instale as dependências necessárias para criação de uuids, tokens jwt e variáveis de ambiente.<br>
+Configure o arquivo .env e refatore os arquivos index.ts e BaseDatabase.ts.
+
+### Exercício 2
+
+Crie o serviço IdGenerator e refatore o endpoint de cadastro de user para que as ids sejam geradas na camada Business.
+
+### Exercício 3
+
+Crie o serviço TokenManager e refatore os endpoints de cadastro e login de user para que devolvam tokens JWT.
