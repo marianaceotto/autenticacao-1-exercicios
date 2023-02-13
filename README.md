@@ -17,4 +17,4 @@ Crie o serviço IdGenerator e refatore o endpoint de cadastro de user para que a
 
 ### Exercício 3
 
-Crie o serviço TokenManager e refatore os endpoints de cadastro e login de user para que devolvam tokens JWT.
+Crie o serviço TokenManager e refatore os endpoints de cadastro e login de user para que devolvam tokens JWT contendo em seu payload informações de id, nome e tipo de conta.
